@@ -9,13 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjanaK09/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjanaK09/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjanaK09/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
