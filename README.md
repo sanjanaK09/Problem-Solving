@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjanaK09/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sanjanaK09/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjanaK09/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjanaK09/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/sanjanaK09/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanaK09/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanjanaK09/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanjanaK09/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
