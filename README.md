@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/sanjanaK09/Problem-Solving/tree/master/0077-combinations) |
 ## Array
 |  |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sanjanaK09/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/sanjanaK09/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjanaK09/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjanaK09/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sanjanaK09/Problem-Solving/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0022-generate-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
