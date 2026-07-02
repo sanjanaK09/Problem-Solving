@@ -68,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjanaK09/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjanaK09/Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sanjanaK09/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
