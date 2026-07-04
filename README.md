@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjanaK09/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sanjanaK09/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/sanjanaK09/Problem-Solving/tree/master/0077-combinations) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanjanaK09/Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sanjanaK09/Problem-Solving/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjanaK09/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/sanjanaK09/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sanjanaK09/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjanaK09/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjanaK09/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/sanjanaK09/Problem-Solving/tree/master/0037-sudoku-solver) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sanjanaK09/Problem-Solving/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sanjanaK09/Problem-Solving/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
