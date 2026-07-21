@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sanjanaK09/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sanjanaK09/Problem-Solving/tree/master/0077-combinations) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sanjanaK09/Problem-Solving/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanjanaK09/Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjanaK09/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
