@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sanjanaK09/Problem-Solving/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/sanjanaK09/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sanjanaK09/Problem-Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sanjanaK09/Problem-Solving/tree/master/0053-maximum-subarray) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sanjanaK09/Problem-Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sanjanaK09/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sanjanaK09/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanjanaK09/Problem-Solving/tree/master/0055-jump-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanjanaK09/Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjanaK09/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjanaK09/Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sanjanaK09/Problem-Solving/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sanjanaK09/Problem-Solving/tree/master/0042-trapping-rain-water) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanjanaK09/Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sanjanaK09/Problem-Solving/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjanaK09/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sanjanaK09/Problem-Solving/tree/master/0055-jump-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sanjanaK09/Problem-Solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
