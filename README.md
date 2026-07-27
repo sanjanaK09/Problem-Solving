@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sanjanaK09/Problem-Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sanjanaK09/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanjanaK09/Problem-Solving/tree/master/0055-jump-game) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanjanaK09/Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sanjanaK09/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sanjanaK09/Problem-Solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjanaK09/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
