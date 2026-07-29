@@ -204,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sanjanaK09/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
+## Tree
+|  |
+| ------- |
+| [0998-maximum-binary-tree-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0998-maximum-binary-tree-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0998-maximum-binary-tree-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0998-maximum-binary-tree-ii) |
 <!---LeetCode Topics End-->
