@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanjanaK09/Problem-Solving/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/sanjanaK09/Problem-Solving/tree/master/0068-text-justification) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanjanaK09/Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sanjanaK09/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sanjanaK09/Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/sanjanaK09/Problem-Solving/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/sanjanaK09/Problem-Solving/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sanjanaK09/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/sanjanaK09/Problem-Solving/tree/master/0068-text-justification) |
 ## Tree
 |  |
 | ------- |
