@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjanaK09/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanjanaK09/Problem-Solving/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanjanaK09/Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sanjanaK09/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sanjanaK09/Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 ## Trie
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sanjanaK09/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 ## Tree
 |  |
 | ------- |
