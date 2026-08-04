@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjanaK09/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanjanaK09/Problem-Solving/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sanjanaK09/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/sanjanaK09/Problem-Solving/tree/master/0068-text-justification) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sanjanaK09/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sanjanaK09/Problem-Solving/tree/master/0056-merge-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0998-maximum-binary-tree-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0998-maximum-binary-tree-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sanjanaK09/Problem-Solving/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
