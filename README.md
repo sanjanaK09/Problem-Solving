@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sanjanaK09/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sanjanaK09/Problem-Solving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sanjanaK09/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sanjanaK09/Problem-Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sanjanaK09/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sanjanaK09/Problem-Solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/sanjanaK09/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjanaK09/Problem-Solving/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sanjanaK09/Problem-Solving/tree/master/0049-group-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sanjanaK09/Problem-Solving/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sanjanaK09/Problem-Solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sanjanaK09/Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/sanjanaK09/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/sanjanaK09/Problem-Solving/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/sanjanaK09/Problem-Solving/tree/master/0068-text-justification) |
 ## Dynamic Programming
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanjanaK09/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sanjanaK09/Problem-Solving/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sanjanaK09/Problem-Solving/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
