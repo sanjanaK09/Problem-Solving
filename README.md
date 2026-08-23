@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sanjanaK09/Problem-Solving/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sanjanaK09/Problem-Solving/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0079-word-search) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanjanaK09/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/sanjanaK09/Problem-Solving/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0079-word-search) |
 | [0704-binary-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0704-binary-search) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanjanaK09/Problem-Solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/sanjanaK09/Problem-Solving/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/sanjanaK09/Problem-Solving/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/sanjanaK09/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sanjanaK09/Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjanaK09/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanjanaK09/Problem-Solving/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sanjanaK09/Problem-Solving/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sanjanaK09/Problem-Solving/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
